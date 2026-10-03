@@ -24,5 +24,9 @@
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
     "lint": "eslint src && tsc"
-  }
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "type": "commonjs"
 }
