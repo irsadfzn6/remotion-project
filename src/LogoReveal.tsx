@@ -246,4 +246,4 @@ export const LogoReveal: React.FC = () => {
         </>
       )}
     </AbsoluteFill>
-  );\n};
+};
